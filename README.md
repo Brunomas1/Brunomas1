@@ -39,8 +39,6 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenv
 ---
 
 ## 👥 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomonteiro)
 [![Site Pessoal](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://bmont3d.top)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@bmont3d.top)
 
