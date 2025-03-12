@@ -48,13 +48,4 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenv
 
 Obrigado por visitar meu perfil! 💚🚀
 
----
-
-📊 **GitHub Stats:**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmont3d&show_icons=true&theme=radical)
-
-🔍 **Linguagens Mais Usadas:**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmont3d&layout=compact&theme=radical)
 
