@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bruno Monteiro 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 Bem-vindo ao meu perfil!
 
@@ -8,7 +8,6 @@ Bem-vindo ao meu perfil!
 
 - 🌟 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.
 - 📚 Atualmente trabalhando em **sistemas SaaS, automação e web apps interativos**.
-- ✨ Experiência com **Laravel, React, Docker, MySQL, LAMP e muito mais**.
 - 💡 Sempre aprendendo algo novo e buscando melhorar minhas habilidades.
 
 ---
