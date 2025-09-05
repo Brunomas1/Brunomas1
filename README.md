@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil!
 
 ---
 
-##Techs
+## 🤖 Techs
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -37,7 +37,7 @@ Bem-vindo ao meu perfil!
 
 ---
 
-##Contato
+## 📱 Contato
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
