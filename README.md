@@ -1,12 +1,10 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Ol%C3%A1!+Sou+o+Bruno+Monteiro)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Ol%C3%A1!+Sou+Bruno+Monteiro)](https://git.io/typing-svg)
 
 ## 💻 Sobre mim
 
 - 🌟 Apaixonado por tecnologia, desenvolvimento e soluções inovadoras.
 - 📚 Atualmente trabalhando em **sistemas SaaS, automação e web apps interativos**.
 - 💡 Sempre aprendendo algo novo e buscando melhorar minhas habilidades.
-
----
 
 ## 🤖 Techs
 
@@ -30,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
----
-
 ## 📱 Contato
 
 <div align="left">
@@ -43,11 +39,10 @@
 </a>
 </div>
 
----
+### 
 
 <img src="https://raw.githubusercontent.com/Brunomas1/Brunomas1/output/snake.svg" alt="Snake animation" />
 
----
 
 
 
