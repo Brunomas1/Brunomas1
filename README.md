@@ -30,9 +30,6 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenv
 ###
 
 ---
-
-## 💪 Tecnologias & Ferramentas
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -52,7 +49,6 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenv
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
-
 ---
 
 ## 👥 Conecte-se comigo
