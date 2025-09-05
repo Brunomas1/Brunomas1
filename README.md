@@ -2,7 +2,7 @@
 
 ## 💻 Sobre mim
 
-- 🌟 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.
+- 🌟 Apaixonado por tecnologia, desenvolvimento e soluções inovadoras.
 - 📚 Atualmente trabalhando em **sistemas SaaS, automação e web apps interativos**.
 - 💡 Sempre aprendendo algo novo e buscando melhorar minhas habilidades.
 
@@ -35,9 +35,14 @@
 ## 📱 Contato
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<a href="https://www.linkedin.com/in/bruno-monteiro-de-andrade-silva-16bb70355" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+<a href="mailto:bmont3d@gmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
 </div>
+
 
 
 
