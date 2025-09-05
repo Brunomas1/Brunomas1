@@ -49,7 +49,6 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenv
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
----
 
 ## 👥 Conecte-se comigo
 [![Site Pessoal](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://bmont3d.top)
