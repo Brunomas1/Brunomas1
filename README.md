@@ -12,6 +12,7 @@ Bem-vindo ao meu perfil!
 - 💡 Sempre aprendendo algo novo e buscando melhorar minhas habilidades.
 
 ---
+
 ##Techs
 
 <div align="center">
@@ -35,6 +36,7 @@ Bem-vindo ao meu perfil!
 </div>
 
 ---
+
 ##Contato
 
 <div align="center">
