@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno Monteiro 👋
 
-Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenvolvimento web, automação e soluções tecnológicas que venho explorando.
+Bem-vindo ao meu perfil!
 
 ---
 
@@ -12,20 +12,8 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenv
 - 💡 Sempre aprendendo algo novo e buscando melhorar minhas habilidades.
 
 ---
+##Techs
 
-## 🔄 O que você encontra por aqui?
-
-🌐 **Web Apps** - Projetos SaaS, dashboards e ferramentas interativas.
-
-🔄 **Automatizações** - Scripts para facilitar tarefas do dia a dia.
-
-🏢 **Infraestrutura** - Configurações e deploy com Docker, VPS e servidores web.
-
-🌟 **Projetos Pessoais** - Experimentos e ideias inovadoras em tecnologia.
-
-###
-
----
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -47,6 +35,7 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenv
 </div>
 
 ---
+##Contato
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
