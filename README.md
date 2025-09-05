@@ -1,7 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Ol%C3%A1!+Sou+o+Bruno+Monteiro)](https://git.io/typing-svg)
 
----
-
 ## 💻 Sobre mim
 
 - 🌟 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.
@@ -41,6 +39,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
----
 
 
