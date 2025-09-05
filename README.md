@@ -25,6 +25,10 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenv
 
 ---
 
+<img src="https://raw.githubusercontent.com/Brunomas1/Brunomas1/output/snake.svg" alt="Snake animation" />
+
+---
+
 ## 💪 Tecnologias & Ferramentas
 
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
