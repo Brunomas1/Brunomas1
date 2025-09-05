@@ -1,7 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Ol%C3%A1!+Sou+o+Bruno+Monteiro)](https://git.io/typing-svg)
 
-Bem-vindo ao meu perfil!
-
 ---
 
 ## 💻 Sobre mim
@@ -44,7 +42,5 @@ Bem-vindo ao meu perfil!
 </div>
 
 ---
-
-Obrigado por visitar meu perfil! 💚🚀
 
 
