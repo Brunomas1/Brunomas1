@@ -23,8 +23,6 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenv
 
 🌟 **Projetos Pessoais** - Experimentos e ideias inovadoras em tecnologia.
 
----
-
 ###
 
 ---
